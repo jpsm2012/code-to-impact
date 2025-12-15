@@ -12,4 +12,4 @@ print(f"Sua média final é: {media}")
 if media >= 7:
     print("Parabéns! Você foi aprovado!")
 else:
-    print("nao foi dessa vez !!!")
+    print("Nao foi dessa vez !!!")
